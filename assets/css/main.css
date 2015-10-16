@@ -475,6 +475,15 @@
 		margin: 0 0 1.5em 0;
 	}
 
+	
+	header r {
+		color: rgba(255, 255, 255, 0.4);
+		position: relative;
+		margin: 0 0 1.5em 0;
+		font-size: 1.0em
+	}
+
+
 	header h2 + p {
 		font-size: 1.25em;
 		margin-top: -1em;
